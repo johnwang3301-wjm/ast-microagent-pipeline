@@ -1,0 +1,20 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Python environments
+__pycache__/
+*.py[cod]
+
+# Logs and environment variables
+*.log
+.env
+
+# 忽略本地測試數據和草稿文件夾
+input_papers/
+output_asts/
+LOGIC_STRUCTURE_EXTRACT/
+PSEUDOCODE_FOR_QWEN/
+RESTRUCTURED_RULES/
+
+
